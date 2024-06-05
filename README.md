@@ -1,2 +1,2 @@
 Picture
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/photo.jpg)
+![Image alt](https://github.com/{delbuff}/{text-editor}/raw/{branch}/{path}/photo.jpg)
